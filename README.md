@@ -5,7 +5,7 @@
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Welcome to my portfolio, I am a self taught professional who is passionate about information security and learning about the latest trends and technologies that help keep the world safe from threats. This will showcase my dedication and journey into landing my first role as an L1 SOC Analyst. 
 
 ## Skills
 
