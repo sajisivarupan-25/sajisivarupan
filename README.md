@@ -11,7 +11,7 @@ Welcome to my portfolio, I am a self taught professional who is passionate about
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|  NAME   | <a href="">Detection Lab</a>|
+|  NAME   | <a href="https://github.com/sajisivarupan-25/PROJECT-1/tree/main">Detection Lab</a>|
 
 ## Certifications
 <div>
@@ -23,5 +23,6 @@ Welcome to my portfolio, I am a self taught professional who is passionate about
 </div>
 
 ## Projects
+- <a href="https://github.com/sajisivarupan-25/PROJECT-1/tree/main">PROJECT 1</a>
 
 
