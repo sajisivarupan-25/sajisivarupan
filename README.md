@@ -12,7 +12,7 @@ Welcome to my portfolio, I am a self taught professional who is passionate about
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |  NAME   | <a href="https://github.com/sajisivarupan-25/PROJECT-1/tree/main">Detection Lab</a>|
-| Google Cybersecurity Professional Certificate | <a href=""
+| Google Cybersecurity Professional Certificate | <a href="https://github.com/sajisivarupan-25/Google-Cybersecurity-Course-Worksheets">Worksheets</a>|
 
 ## Certifications
 <div>
