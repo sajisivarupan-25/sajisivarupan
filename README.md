@@ -7,11 +7,10 @@
 
 Welcome to my portfolio, I am a self taught professional who is passionate about information security and learning about the latest trends and technologies that help keep the world safe from threats. This will showcase my dedication and journey into landing my first role as an L1 SOC Analyst. 
 
-## Skills
+## Experience
 
-| Skill                                         | Associated Project         |
+| Title                                                     | Projects       |
 |-----------------------------------------------|----------------------------|
-|  NAME   | <a href="https://github.com/sajisivarupan-25/PROJECT-1/tree/main">Detection Lab</a>|
 | Google Cybersecurity Professional Certificate | <a href="https://github.com/sajisivarupan-25/Google-Cybersecurity-Course-Worksheets">Worksheets</a>|
 
 ## Certifications
@@ -22,7 +21,3 @@ Welcome to my portfolio, I am a self taught professional who is passionate about
 [![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?logo=google&logoColor=white)](https://coursera.org/share/4fcca0fc79deb37e2be365e97efa4ca0)
 
 </div>
-
-## Projects
-- <a href="https://github.com/sajisivarupan-25/PROJECT-1/tree/main">PROJECT 1</a>
-
